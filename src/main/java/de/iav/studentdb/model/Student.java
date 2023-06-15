@@ -1,2 +1,4 @@
-package de.iav.studentdb.model;public class Student {
+package de.iav.studentdb.model;
+
+public record Student () {
 }
